@@ -1,0 +1,194 @@
+
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13.05px;
+	/*color: #292f33;*/
+	color: #66757f;
+	/*background: #22FF00;*/
+	
+}
+
+p{
+/* .tweet-long{ */
+margin-bottom: 10px;
+}
+
+
+a{
+text-decoration: none;
+	color: #0084b4;
+	float: right;
+	}
+
+a:hover{
+color: #00aced;
+}
+
+a:focus, a:visited {
+	text-decoration: none;
+	color: #0084b4;
+	
+}
+
+
+div.main-wrapper{
+	width:900px; 	
+	/*background: #22FF99;*/
+	margin-top: 3%;
+    margin-bottom: 5%;
+    margin-right: auto;
+    margin-left: auto;	
+}
+
+div.formspace { 
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13.05px;
+	font-weight: 400;
+	/*color: #333;*/
+	color: #66757f;
+	line-height: 1.8;
+	width: 204px;
+    height: 210px;
+/* background: red;  */
+    margin-left: auto;
+	margin-right: auto;
+    margin-top: 7%;  
+	/* text-align: justify; */
+}
+
+
+.stack-result-title{
+ margin-left: 105px; 
+/* text-align: center; */
+
+}
+
+.pie-result-title-right{
+
+}
+
+.stack-result-title-bottom{
+/* text-align: center; */
+ margin-left: 135px; 
+
+}
+
+
+
+.pie-result-title{
+text-align: center;
+}
+
+.day-container-text-and-grap {
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: 3%;
+/* background:red; */
+}
+
+.piecontainer{
+	float:left;
+	display:block; 
+	width:310px; 
+	height:666px; 	
+	/*background:#CCAA55; */
+
+}
+
+.results-container-day-with-title {
+	padding-top:3px;
+	padding-left:12px;
+	padding-right:0px;
+	padding-bottom:10px;
+	float:left; 
+	display:block; 
+	width:530px; 
+	height:600px;
+	margin-left: 30px;
+		background:#f5f8fa;
+	/*background:#e1e8ed; */
+	border-radius:10px;
+}
+.after{
+	padding: 9px;
+	width: 327px;
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: 75%;
+/*     margin-top: -75%; */
+/* 	background:#f5f8fa; */
+/* 	background:#e1e8ed; */
+	border-radius:10px;
+	font-size: 14.1px;
+	}
+	
+	
+	
+.results-container-day {
+	overflow-y: scroll; overflow-x:hidden;
+	display:block; 
+	float:left; 
+	width:500px; 
+    height:520px;
+    margin: 0 auto;
+	overflow: auto; 
+	/*background:#e1e8ed; 	*/
+	font-size: 12.9px;
+	background:#f5f8fa;
+	border-radius:10px;
+	}
+ul{
+list-style-type: none;
+font-size: 12.9px;
+line-height: 1.8;
+}
+
+h1 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 21.03px;
+	}
+
+
+.week-container-text-and-graph {
+margin-left: auto;
+	margin-right: auto;
+    margin-top: 6%;
+/* 	background: yellow;  */
+	}
+
+
+.week-graph{
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: 3%;
+	/*background:yellow;*/
+}
+
+
+
+.results-container-week{
+	padding-top:12px;
+	padding-left:12px;
+	padding-right:12px;
+	padding-bottom:12px;
+	width:801px;
+	height:240px; 
+	overflow: auto; 
+	/*background:#CCAA55; */
+	margin-left: auto;
+	margin-right: auto;
+    margin-top: 3%;
+	font-size: 12.9px;
+	background:#f5f8fa;
+	border-radius:10px;
+	}
+	
+
+.summ{
+margin-left: 66px; 
+}
+
+
+
+

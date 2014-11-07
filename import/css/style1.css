@@ -1,0 +1,31 @@
+div.stacks {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}
+
+.stacks.text {
+  font: 10px sans-serif;
+}
+
+.stacks.axis path {
+  display: none;
+}
+
+.stacks.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.stacks.group-label {
+  font-weight: bold;
+  text-anchor: end;
+}
+
+.stacks.form.a {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
